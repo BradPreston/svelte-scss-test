@@ -1,3 +1,8 @@
+<svelte:head>
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap" rel="stylesheet">
+</svelte:head>
+
 <script>
     import { activeNavLink } from '../stores.js';
 
