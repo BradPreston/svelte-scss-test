@@ -3,7 +3,7 @@
 </div>
 
 <style lang="scss">
-    @import 'public/global.scss';
+    @import 'public/global.css';
 
     .wrapper {
         margin: 0 auto;

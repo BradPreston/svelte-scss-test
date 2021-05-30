@@ -44,10 +44,10 @@
 <svelte:component this={page} />
 
 <style lang="scss">
-	@import 'public/global.scss';
+	@import 'public/global.css';
 
 	.active {
-		color: $main-color;
+		color: #afe
 	}
 
 	nav {
@@ -61,7 +61,7 @@
 			color: inherit;
 
 			&:hover {
-				color: $main-color;
+				color: #afe;
 			}
 
 			&:first-of-type {
