@@ -14,8 +14,8 @@
     <a href='/about' on:click={() => activeNavLink.set('about')}>About</a>
 </div>
 
-<style lang="scss">
-    @import 'public/global.css';
+<style type="text/scss">
+    @import 'public/global.scss';
 
     .wrapper {
         margin: 0 auto;

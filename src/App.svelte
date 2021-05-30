@@ -43,8 +43,8 @@
 
 <svelte:component this={page} />
 
-<style lang="scss">
-	@import 'public/global.css';
+<style type="text/scss">
+	@import 'public/global.scss';
 
 	.active {
 		color: #afe

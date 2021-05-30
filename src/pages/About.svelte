@@ -2,8 +2,8 @@
     <h1>About</h1>
 </div>
 
-<style lang="scss">
-    @import 'public/global.css';
+<style type="text/scss">
+    @import 'public/global.scss';
 
     .wrapper {
         margin: 0 auto;
